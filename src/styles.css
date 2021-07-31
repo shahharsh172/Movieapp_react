@@ -1,0 +1,35 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.b2 {
+  font-weight: 650;
+}
+.content-color{
+  background-color: blue
+}
+
+.d {
+  display: flex;
+  position: relative;
+}
+.btn {
+  width: 178px;
+  margin-top: 4px;
+}
+.btn-1 {
+  margin: 2px;
+}
+
+.movie-details {
+  padding: 0 15px;
+}
+.text-contain {
+  width: 400px;
+}
+
+.dc {
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+}
